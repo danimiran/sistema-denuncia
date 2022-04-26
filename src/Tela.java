@@ -14,10 +14,9 @@ public class Tela extends JFrame {
 	
 	
 	public Tela() {
-		setTitle("Sistema de DenÃºncia");
+		setTitle("Sistema de Denúncia");
 		setSize(300,300);
 		getContentPane().setLayout(null);
-		
 		getContentPane().setBackground(new Color(255, 255, 255));
 		setDefaultCloseOperation(DISPOSE_ON_CLOSE);
 	
